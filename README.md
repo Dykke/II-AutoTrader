@@ -9,8 +9,7 @@ An automation tool designed for Industry Idle game, featuring mouse action recor
 - 🛡️ Open Source - All code is publicly available for review
 - 🔒 Safe to Use - No data collection or external connections
 
-[View VirusTotal Scan Results](https://www.virustotal.com/gui/file/7e0dc5ea9014a3747030aff05e1905011e9a2b32e2f1c9085d9c5b6949169573)
-[View NordVPN Scan Results](https://nordvpn.com/es/file-checker/?srsltid=AfmBOornlRp5qKfKXx8Kok08BSvl-j16oiUVGCpnPnDyC3y8vOEOVR7H)
+[View VirusTotal Scan Results](https://www.virustotal.com/gui/file/7e0dc5ea9014a3747030aff05e1905011e9a2b32e2f1c9085d9c5b6949169573), [View NordVPN Scan Results](https://nordvpn.com/es/file-checker/?srsltid=AfmBOornlRp5qKfKXx8Kok08BSvl-j16oiUVGCpnPnDyC3y8vOEOVR7H)
 
 ## Features
 
