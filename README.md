@@ -2,7 +2,7 @@
 
 An automation tool designed for Industry Idle game, featuring mouse action recording and scheduled replay functionality.
 
-![AutoTrader Interface](screenshots/interface.png)
+[AutoTrader Interface](screenshots/interface.png)
 
 ## Security
 - ✅ Virus Free - Verified with [VirusTotal](https://www.virustotal.com), [VirusTotal](https://nordvpn.com/es/file-checker/)
